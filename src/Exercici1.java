@@ -9,3 +9,4 @@ public class Exercici1 {
 
     }
 }
+esto agrego al programa
