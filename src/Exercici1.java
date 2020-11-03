@@ -15,3 +15,6 @@ esto agrego al programa
 public void name() {
      
  }
+
+//  agregar 3
+void 3
