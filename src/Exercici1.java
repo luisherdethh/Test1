@@ -10,3 +10,8 @@ public class Exercici1 {
     }
 }
 esto agrego al programa
+ 
+// TODO agrego esto 
+public void name() {
+     
+ }
